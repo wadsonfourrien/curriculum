@@ -521,4 +521,5 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [BLuu's Solution](https://github.com/bryanluu/TOP_ruby/blob/master/stockpicker.rb)
 * [mpiriya's Solution](https://github.com/mpiriya/ruby/blob/master/stock.rb)
 * [mioria's Solution](https://github.com/NotAProgrammerdork/Ruby/blob/master/stock_picker.rb)
+* [wadsonfourrien's Solution](https://github.com/wadsonfourrien/LearningRubyRails/blob/master/stock_picker.rb)
 </details>
